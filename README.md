@@ -4,3 +4,6 @@
 * Extract `wrkzcoin_checkpoints.csv.zip` to where `Wrkzd` locates. It shall be extracted to `wrkzcoin_checkpoints.csv`
 * Start `Wrkzd` with additional parameters:
 `./Wrkzd --load-checkpoints wrkzcoin_checkpoints.csv`
+* It shall start as the image below
+
+![Load Wrkz check points](https://raw.githubusercontent.com/wrkzdev/wrkzcoin-checkpoints/master/load_checkpoint.png)
