@@ -8,3 +8,6 @@
 * It shall start as the image below
 
 ![Load Wrkz check points](https://raw.githubusercontent.com/wrkzdev/wrkzcoin-checkpoints/master/load_checkpoint.png)
+
+#### We also have live checkpoints data which is updated every 10mn
+* Download `wrkzcoin_checkpoints.csv` from WrkzCoin Explorer: `wget http://myexplorer.wrkz.work/checkpoints`
