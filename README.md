@@ -1,3 +1,4 @@
+## Please use https://github.com/wrkzcoin/checkpoints instead
 ### wrkzcoin-checkpoints
 #### How to synchronize quickly with checkpoints
 * Download `wrkzcoin_checkpoints.csv.zip` from https://github.com/wrkzdev/wrkzcoin-checkpoints
